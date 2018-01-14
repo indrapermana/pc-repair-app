@@ -1,0 +1,17 @@
+{
+  "name": "pc-repair",
+  "version": "1.0.0",
+  "description": "simple web app using node and express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "indra permana",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "jade": "*",
+    "nodemailer": "*"
+  }
+}
